@@ -1,2 +1,2 @@
 #!/bin/bash
-bash $romscript
+source "${my_dir}"/$romscript
