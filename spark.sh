@@ -3,12 +3,13 @@
 export GITHUB_USER="keneankit01"
 export GITHUB_EMAIL="keneankit01@gmail.com"
 
-export device="SWEET"
+export device="sweet"
 
-export ROM="Spark OS"
-export ROM_DIR="${WORKSPACE}/work/rom"
+export ROM="spark"
+export ROM_DIR="${WORKSPACE}/work/spark"
 export ROM_VERSION="11"
-export official="true"
+export official="false"
+export local_manifest_url="https://raw.githubusercontent.com/keneankit01/android_.repo_local_manifests/spark/local_manifest.xml"
 export manifest_url="https://github.com/Spark-Rom/manifest"
 export rom_vendor_name="spark"
 export branch="fire"
