@@ -3,7 +3,7 @@
 export GITHUB_USER="keneankit01"
 export GITHUB_EMAIL="keneankit01@gmail.com"
 
-export device="Pl2"
+export device="PL2"
 
 export ROM="HyconOS"
 export ROM_DIR="${WORKSPACE}/work/hycon"
